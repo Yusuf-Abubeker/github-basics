@@ -1,1 +1,3 @@
 this is my first class in git.
+haha
+this is my third line
